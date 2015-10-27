@@ -1,4 +1,4 @@
-package test.driver.manager;
+package tfl.driver.manager;
 
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Platform;

@@ -1,9 +1,8 @@
-package test.pages.jp.common;
+package tfl.pages.jp.common;
 
 import cucumber.api.java.Before;
-import org.junit.AfterClass;
 import org.openqa.selenium.WebDriver;
-import test.driver.manager.WebDriverManager;
+import tfl.driver.manager.WebDriverManager;
 
 /**
  *

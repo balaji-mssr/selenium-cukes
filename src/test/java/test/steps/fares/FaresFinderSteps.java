@@ -6,11 +6,10 @@ import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import org.junit.AfterClass;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
-import test.driver.manager.WebDriverManager;
-import test.pages.jp.FaresAndPaymentPage;
+import tfl.driver.manager.WebDriverManager;
+import tfl.pages.jp.FaresAndPaymentPage;
 
 import static junit.framework.TestCase.assertTrue;
 
