@@ -1,4 +1,4 @@
-package tfl.pages.jp;
+package tfl.pages.fares;
 
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.WebDriver;
@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.pagefactory.AjaxElementLocatorFactory;
 import org.openqa.selenium.support.pagefactory.ElementLocatorFactory;
 import tfl.driver.manager.WebDriverManager;
-import tfl.pages.jp.common.BasePage;
+import tfl.pages.common.BasePage;
 
 import java.util.List;
 

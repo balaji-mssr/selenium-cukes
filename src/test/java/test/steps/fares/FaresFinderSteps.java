@@ -9,7 +9,7 @@ import cucumber.api.java.en.When;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import tfl.driver.manager.WebDriverManager;
-import tfl.pages.jp.FaresAndPaymentPage;
+import tfl.pages.fares.FaresAndPaymentPage;
 
 import static junit.framework.TestCase.assertTrue;
 

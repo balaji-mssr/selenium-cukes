@@ -1,4 +1,4 @@
-package tfl.pages.jp.common;
+package tfl.pages.common;
 
 import cucumber.api.java.Before;
 import org.openqa.selenium.WebDriver;
